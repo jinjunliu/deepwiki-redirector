@@ -6,6 +6,9 @@
 
 This browser extension streamlines the workflow for users who frequently navigate between code repositories on GitHub and related content on DeepWiki. It detects when you are viewing a repository page on GitHub (`github.com/username/repository`) and adds a floating "DeepWiki" button. Clicking this button instantly opens the corresponding DeepWiki page (`deepwiki.com/username/repository`) in a new browser tab.
 
+![Screenshot 1](screenshots/github-page.png)
+![Screenshot 2](screenshots/deepwiki-page.png)
+
 ## Features
 
 * Adds a convenient floating 'DeepWiki' button to GitHub repository pages.
