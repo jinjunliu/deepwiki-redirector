@@ -27,7 +27,7 @@ There are two ways to install this extension:
 
 * Clone or download this repository to your local machine.
     ```bash
-    git clone [https://github.com/jinjunliu/deepwiki-redirector.git](https://github.com/jinjunliu/deepwiki-redirector.git)
+    git clone git@github.com:jinjunliu/deepwiki-redirector.git
     ```
 * Open Google Chrome and navigate to `chrome://extensions`.
 * Enable "Developer mode" using the toggle switch in the top-right corner.
