@@ -27,7 +27,7 @@ There are two ways to install this extension:
 **1. From the Chrome Web Store (Recommended)**
 
 * You can install the extension directly from the official Chrome Web Store for automatic updates:
-* **[Link to Chrome Web Store Listing]** (Link will be added once published)
+* https://chromewebstore.google.com/detail/deepwiki-github-redirecto/gigafnndalmhmhpacgeakdfhahibimjd
 
 **2. Manual Installation (for Development or Testing)**
 
